@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+.lorem-demo{
+    width: 500px;
+    height: 400px;
+    border: 8px solid green;
+    overflow-y: scroll;
+}
+.second-lorem{
+    width: 500px;
+    height: 400px;
+    border: 8px solid red;
+    overflow-y: scroll;
+}
+.mini-mini{
+    width: 100px;
+    border: 3px solid blue;
+    overflow: hidden;
+}
+.paragraph{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
